@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="EditorActions">
+        <abbreviation name="cl" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

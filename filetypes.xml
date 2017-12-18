@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="infosform" type="JSX Harmony" />
+      <mapping pattern="CompanyList.jsx" type="PLAIN_TEXT" />
+      <mapping pattern="infosform.jsx" type="PLAIN_TEXT" />
+      <mapping pattern="Meteor" type="PLAIN_TEXT" />
+      <mapping ext="wt" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="2017-11-02t14-43-53z-00000" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
