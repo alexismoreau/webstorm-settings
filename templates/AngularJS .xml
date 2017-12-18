@@ -1,0 +1,7 @@
+<templateSet group="AngularJS ">
+  <template name="cl" value="console.log(" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
