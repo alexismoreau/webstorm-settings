@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="cw" value="console.warn(" shortcut="ENTER" toReformat="false" toShortenFQNames="true">
+  <template name="cw" value="console.warn(" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
