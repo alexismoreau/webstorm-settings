@@ -4,6 +4,7 @@
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping pattern="kiosk-view-tickets.i18n.yml" type="YAML" />
     </extensionMap>
   </component>
 </application>
