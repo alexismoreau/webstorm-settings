@@ -4,6 +4,7 @@
       <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
