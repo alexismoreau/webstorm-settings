@@ -1,13 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="infosform" type="JSX Harmony" />
-      <mapping pattern="Meteor" type="PLAIN_TEXT" />
-      <mapping pattern="infosform.jsx" type="PLAIN_TEXT" />
-      <mapping pattern="CompanyList.jsx" type="PLAIN_TEXT" />
-      <mapping ext="wt" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="2017-11-02t14-43-53z-00000" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="Dockerfile" />
+      <mapping pattern="index" type="JavaScript" />
+      <mapping pattern="Podfile" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="gradle" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping pattern="kiosk-view-tickets.i18n.yml" type="YAML" />
     </extensionMap>
   </component>
 </application>

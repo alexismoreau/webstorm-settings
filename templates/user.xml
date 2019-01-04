@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="cw" value="console.warn(" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ce" value="console.error(" shortcut="ENTER" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
