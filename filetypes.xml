@@ -15,6 +15,7 @@
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern="kiosk-view-tickets.i18n.yml" type="YAML" />
     </extensionMap>
   </component>
