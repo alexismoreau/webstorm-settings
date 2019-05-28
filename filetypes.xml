@@ -4,6 +4,7 @@
       <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping pattern="index" type="JavaScript" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="nginx/Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
